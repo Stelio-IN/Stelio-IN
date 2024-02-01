@@ -1,4 +1,4 @@
-### Olá! Senja ao vindo ao meu perfil 🍀 S_IN 🍀
+### Olá! Seja ao vindo ao meu perfil 🍀 S_IN 🍀
 [Perfil em construção]
 
 ![Stelio-IN GitHub stats](https://github-readme-stats.vercel.app/api?username=Stelio-IN&show_icons=true&theme=dracula)
