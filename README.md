@@ -39,7 +39,7 @@ Estou ansioso para conectar com desenvolvedores, estudantes e entusiastas de tec
 ⚡ Diversão:
 Além do mundo da programação, gosto de explorar jogos e pratica de exercicios fisicos!
 
-Sinta-se para entrar em contato! Vamos construir algo incrível juntos. 🚀✨
+Sinta-se a vontade para entrar em contato! Vamos construir algo incrível juntos. 🚀✨
 
 ## Contactos</br>
 - stelio.a.mondlane@uem.ac.mz </br>
