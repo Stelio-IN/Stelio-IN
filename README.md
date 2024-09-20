@@ -28,8 +28,9 @@ Sou apaixonado por programação e desenvolvimento de software, sempre em busca 
 ## 🚀 Projetos e Contribuições
 Nos meus repositórios, você encontrará projetos que refletem meu comprometimento com a excelência e minha busca por melhorias contínuas. Atualmente, estou focado em desenvolvimento web e backend, utilizando tecnologias como **Node.js**, **React**, **Java**, e **MySQL**.
 
-## 📘 Formação
-- **Universidade Eduardo Mondlane**: Bacharelado em Ciências da Computação (em andamento)
+## 📘 Formação 
+- **Universidade Eduardo Mondlane**: Licenciatura em informática
+- **Monitor na mesma**: Cadeiras de programacao como: FP(Fundamentos de programação) & POO(Programação Orientada a Objectos) todas em java, ano de 2024! 
 
 ## 💻 Áreas de Interesse
 - Desenvolvimento Web
