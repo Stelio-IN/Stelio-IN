@@ -1,10 +1,10 @@
-# Olá! Bem-vindo ao meu perfil 🍀 S_IN 🍀
+# Just see SAM
 [Perfil em construção]
 
 ![Stelio-IN GitHub stats](https://github-readme-stats.vercel.app/api?username=Stelio-IN&show_icons=true&theme=dracula)
 
 ## Sobre Mim
-👋 Olá, sou **Stelio Acácio Mondlane**, um entusiasta de tecnologia e estudante do 3º ano na **Faculdade de Ciências**, Departamento de Matemática e Informática (DMI), na **Universidade Eduardo Mondlane**, Moçambique.
+👋 Olá, sou **Stelio Acácio Mondlane**, um entusiasta de tecnologia e estudante do 4º ano na **Faculdade de Ciências**, Departamento de Matemática e Informática (DMI), na **Universidade Eduardo Mondlane**, Moçambique.
 
 Sou apaixonado por programação e desenvolvimento de software, sempre em busca de aprender mais sobre tecnologias inovadoras. Estou focado em melhorar minhas habilidades e contribuir com a comunidade de desenvolvedores.
 
