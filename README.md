@@ -1,80 +1,47 @@
 # Stelio Acácio Mondlane
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stelio-IN\&show_icons=true\&theme=dracula)](https://github.com/Stelio-IN)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stelio-IN&show_icons=true&theme=dracula)
 
 ## Sobre Mim
 
-Sou **Licenciado em Informática pela Universidade Eduardo Mondlane (UEM)** e atuo como **Docente Assistente no Departamento de Matemática e Informática (DMI)**.
+Sou Licenciado em Informática pela Universidade Eduardo Mondlane (UEM) e atuo como Docente Assistente no Departamento de Matemática e Informática (DMI).
 
-Também trabalho como **Fullstack Developer na Lamone LDA**, com experiência no desenvolvimento de aplicações web, APIs, sistemas corporativos e infraestrutura de produção.
+Também trabalho como Fullstack Developer na Lamone LDA, desenvolvendo aplicações web, APIs e sistemas corporativos.
 
-Tenho interesse em **engenharia de software, arquitetura de sistemas, inteligência artificial e desenvolvimento de soluções tecnológicas para problemas reais**.
+Tenho interesse em engenharia de software, arquitetura de sistemas, inteligência artificial e desenvolvimento de soluções tecnológicas.
 
 ## Tecnologias
 
-**Frontend**
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-* HTML5, CSS3, JavaScript
-* React
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-**Backend**
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-* Java
-* Node.js
-* Python
-* PHP
-
-**Bases de Dados**
-
-* MySQL
-
-**Infraestrutura**
-
-* Linux
-* VPS
-* Nginx
-* PM2
-* Git / CI/CD
-
-## Experiência
-
-### Docente Assistente — Universidade Eduardo Mondlane
-
-* Fundamentos de Programação
-* Programação Orientada a Objetos
-* Desenvolvimento prático com Java
-* Acompanhamento de estudantes
-
-### Fullstack Developer — Lamone LDA
-
-* Desenvolvimento de aplicações web
-* APIs REST
-* Frontend com React
-* Backend com Node.js
-* Integração com bases de dados
-* Deploy e administração de servidores
-
-## Áreas de Interesse
-
-* Engenharia de Software
-* Arquitetura de Sistemas
-* Inteligência Artificial
-* Sistemas Distribuídos
-* Microserviços
-* Desenvolvimento Web e Mobile
-* DevOps
+### DevOps
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## GitHub
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stelio-IN\&layout=compact\&theme=dracula)](https://github.com/Stelio-IN)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stelio-IN&layout=compact&theme=dracula)
 
 ## Contacto
-
-* **Email:** [stelio.a.mondlane@uem.ac.mz](mailto:stelio.a.mondlane@uem.ac.mz)
-* **Email:** [stelioacaciomondlane@gmail.com](mailto:stelioacaciomondlane@gmail.com)
-* **Telefone:** +258 878873084
-* **Telefone:** +258 842156451
-
----
+- stelioacaciomondlane@gmail.com
+- +258 842156451
 
 > Construindo soluções tecnológicas com impacto real.
